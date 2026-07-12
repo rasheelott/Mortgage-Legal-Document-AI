@@ -27,3 +27,6 @@ Machine Learning
 Business Value
 
 The prototype standardizes document review and estimates significant reductions in analyst review time while maintaining human oversight.
+
+<img width="703" height="513" alt="image" src="https://github.com/user-attachments/assets/11a873ec-26ea-4ed6-b60f-95649824aa5a" />
+
